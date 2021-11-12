@@ -8,6 +8,7 @@
 -   [NginX](https://www.nginx.com/) - High performance web server
 -   [Docker](https://www.docker.com/) - Container Platform
 -   [GitHub](https://github.com/) - Version Control
+-   [OpenSSL](https://www.openssl.org/) - Self-sign certificate generator
 
 ##  Installation
 
