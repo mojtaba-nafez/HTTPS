@@ -1,5 +1,14 @@
 # Blogpy
 
+## Project Stack:
+-   [Python 3.x](https://www.python.org/) - Programming Language
+-   [Django 2.2.x](https://www.djangoproject.com/) - Powerful Web Framework
+-   [Gunicorn](https://gunicorn.org/) - WSGI HTTP Server
+-   [PostgreSQL](https://www.postgresql.org/) - PostgreSQL Database
+-   [NginX](https://www.nginx.com/) - High performance web server
+-   [Docker](https://www.docker.com/) - Container Platform
+-   [GitHub](https://github.com/) - Version Control
+
 ##  Installation
 
 1. create **docker network** and **volumes** as below.
